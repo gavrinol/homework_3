@@ -31,7 +31,6 @@ public class Main {
             for (int year = 1822; year <= 2120; year++) {
                 if (year == comet)
                     System.out.println(year);
-
             }
         }
     }
